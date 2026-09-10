@@ -145,6 +145,9 @@ interface BookMetadataFields {
   hardcoverRating?: number;
   hardcoverReviewCount?: number;
   ranobedbRating?: number;
+  lubimyczytacRating?: number;
+  audibleRating?: number;
+  audibleReviewCount?: number;
   coverUpdatedOn?: string;
   audiobookCoverUpdatedOn?: string;
   authors?: string[];
