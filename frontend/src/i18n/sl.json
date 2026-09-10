@@ -1835,6 +1835,9 @@
         "parse": "",
         "pattern": "",
         "required": ""
+      },
+      "bulkActions": {
+        "selectAll": "Izberi vse"
       }
     }
   },
@@ -5478,5 +5481,9 @@
         "matchFailedDetail": "Avtorja ni bilo mogoče najti z zunanjimi metapodatki."
       }
     }
+  },
+  "browse": {
+    "showAll": "Pokaži vse",
+    "moreActions": "Več dejanj"
   }
 }

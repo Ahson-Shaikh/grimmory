@@ -1835,6 +1835,9 @@
         "parse": "",
         "pattern": "",
         "required": ""
+      },
+      "bulkActions": {
+        "selectAll": "Alles selecteren"
       }
     }
   },
@@ -5461,5 +5464,9 @@
         "matchFailedDetail": ""
       }
     }
+  },
+  "browse": {
+    "showAll": "Alles weergeven",
+    "moreActions": "Meer acties"
   }
 }

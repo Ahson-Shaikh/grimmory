@@ -1835,6 +1835,9 @@
         "parse": "",
         "pattern": "",
         "required": ""
+      },
+      "bulkActions": {
+        "selectAll": "Tout sélectionner"
       }
     }
   },
@@ -5478,6 +5481,13 @@
         "matchFailedSummary": "",
         "matchFailedDetail": ""
       }
+    }
+  },
+  "browse": {
+    "showAll": "Tout afficher",
+    "moreActions": "Plus d'actions",
+    "rail": {
+      "noMatches": "Aucun résultat"
     }
   }
 }

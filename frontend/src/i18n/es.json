@@ -1835,6 +1835,9 @@
         "parse": "",
         "pattern": "",
         "required": ""
+      },
+      "bulkActions": {
+        "selectAll": "Seleccionar todo"
       }
     }
   },
@@ -5478,6 +5481,13 @@
         "matchFailedSummary": "Error de coincidencia",
         "matchFailedDetail": "Error al asociar el autor con metadatos externos."
       }
+    }
+  },
+  "browse": {
+    "showAll": "Mostrar todos",
+    "moreActions": "Más acciones",
+    "rail": {
+      "noMatches": "Sin coincidencias"
     }
   }
 }

@@ -1835,6 +1835,9 @@
         "parse": "",
         "pattern": "",
         "required": ""
+      },
+      "bulkActions": {
+        "selectAll": "すべて選択"
       }
     }
   },
@@ -5476,5 +5479,9 @@
         "matchFailedDetail": ""
       }
     }
+  },
+  "browse": {
+    "showAll": "すべて表示",
+    "moreActions": "その他の操作"
   }
 }
