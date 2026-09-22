@@ -177,6 +177,7 @@ Additional deployment examples:
 - Docker Compose: [`deploy/compose/docker-compose.yml`](deploy/compose/docker-compose.yml)
 - Helm: [`deploy/helm/grimmory/Chart.yaml`](deploy/helm/grimmory/Chart.yaml)
 - Podman Quadlet: [`deploy/podman/quadlet/README.md`](deploy/podman/quadlet/README.md)
+- Easypanel: [one-click template](https://easypanel.io/templates/grimmory) - a self-hosted Docker deployment platform, deploys the app and MariaDB with persistent volumes automatically
 
 ---
 
